@@ -20,7 +20,7 @@
 - npm run dev -- --open
 
 ### Project URL
-- https://solanorails7043.onrender.com/admin
+- https://bridgeviewv1.onrender.com/
 
 ### Github URL
 - https://github.com/hyperplayer7/bridgeviewv1
